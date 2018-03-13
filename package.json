@@ -1,0 +1,26 @@
+{
+  "name": "digitea-mockserv",
+  "version": "1.0.0",
+  "description": "Digitea mock server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitea/mockserv.git"
+  },
+  "keywords": [
+    "digitea",
+    "mock",
+    "server"
+  ],
+  "author": "Digitea",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/digitea/mockserv/issues"
+  },
+  "homepage": "https://github.com/digitea/mockserv#readme",
+  "dependencies": {}
+}
